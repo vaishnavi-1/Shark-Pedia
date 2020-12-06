@@ -1,1 +1,3 @@
-# Shark-Pedia
+# SharkiPedia
+
+A website of SHARKS 🦈
